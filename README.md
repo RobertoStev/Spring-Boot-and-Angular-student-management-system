@@ -5,7 +5,7 @@
 <p>Now, let's explore how this application works. </p>
 
 <p> When we access the application at the following URL: http://localhost:4200/students, a list of all students currently present in my MySQL database is displayed. <br>
-Each student entry includes an index, first name, last name, email, and corresponding actions that can be performed on each student. </p>
+Each student entry includes an index, first name, last name, email and corresponding actions that can be performed on each student. </p>
 
 ![Screenshot 2024-02-12 102800](https://github.com/RobertoStev/Spring-Boot-and-Angular-student-management-system/assets/65564783/7a157635-c744-4091-882c-8448f1d6d2d6)
 
