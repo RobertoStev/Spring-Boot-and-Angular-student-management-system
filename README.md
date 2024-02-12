@@ -2,20 +2,20 @@
 
 <p>This application enables CRUD (create, read, update, delete) operations using Spring Boot and Angular.</p>
 
-In the following we will take a look on how this application works
+In the following we will take a look on how this application works.
 
-<p> When we run the application on this URL: http://localhost:4200/students <br>
-We can see the list of all students that are currently in my MySQL database.
+<p> When we run the application on URL: http://localhost:4200/students <br>
+We can see a list of all students that are currently in my MySQL database.
 For each student we have: Index, First Name, Last Name, Email and Actions that we can perform on each student </p>
 
 ![Screenshot 2024-02-12 084013](https://github.com/RobertoStev/Spring-Boot-and-Angular-student-management-system/assets/65564783/510f0ffe-0aeb-4686-8f4d-120a52acf67d)
 
-<p> By clicking on 'Add Student' (top left link) we will be redirected to http://localhost:4200/create-student <br>
-This will open a form in each we can add new student by entering data for the new student. We can not submit the form until we provde valid data for each input field </p>
+<p> By clicking on Add Student (top left link) we will get redirected to http://localhost:4200/create-student <br>
+This will open a form in each we can add new student by proveding data for each field. The Submit button is dissabled until we provde valid data for each input field. </p>
 
 ![Screenshot 2024-02-12 084027](https://github.com/RobertoStev/Spring-Boot-and-Angular-student-management-system/assets/65564783/7a38e140-9fe6-43b5-85d2-13d9f51f7fc1)
 
-<p> When no valida data for the inputs is provided the user will get a error message for filed that does not satisfyies the input, these are all the error messages that can be provided to the user </p>
+<p> When no valida data for input filed is provided the user will get notified by error message. These are all the error messages that can be provided to the user </p>
 
 ![Screenshot 2024-02-12 084041](https://github.com/RobertoStev/Spring-Boot-and-Angular-student-management-system/assets/65564783/e5229b2c-1b30-431c-a8fc-f8d9eac246ce)
 
