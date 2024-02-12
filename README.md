@@ -1,6 +1,6 @@
 <h1> <b> Spring Boot and Angular CRUD application for managing students </b> </h1>
 
-<p>This application enables CRUD (Create, Read, Update, Delete) operations using Spring Boot and Angular.</p>
+<p>This application supports CRUD (Create, Read, Update, Delete) operations using Spring Boot and Angular.</p>
 
 <p>Next, let's explore how this application works. </p>
 
