@@ -2,7 +2,7 @@
 
 <p>This application supports CRUD (Create, Read, Update, Delete) operations using Spring Boot and Angular.</p>
 
-<p>Next, let's explore how this application works. </p>
+<p>Now, let's explore how this application works. </p>
 
 <p> When we access the application at the following URL: http://localhost:4200/students, a list of all students currently present in my MySQL database is displayed <br>
 Each student entry includes an index, first name, last name, email, and corresponding actions that can be performed on each student. </p>
